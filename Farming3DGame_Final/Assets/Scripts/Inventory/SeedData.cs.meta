@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3efc97772b037742801c13d105fb929
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thumbnail: {instanceID: 0}
+  - gameModel: {instanceID: 0}
+  - cropToYield: {instanceID: 0}
+  - seedling: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

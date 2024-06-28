@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3efc97772b037742801c13d105fb929, type: 3}
+  m_Name: HatBapCai
+  m_EditorClassIdentifier: 
+  description: "H\u1EA1t gi\u1ED1ng \u0111\u1EC3 tr\u1ED3ng b\u1EAFp c\u1EA3i"
+  thumbnail: {fileID: 555195586, guid: 0ba2759f2d089c84abe143a5f21f3cee, type: 3}
+  gameModel: {fileID: 0}
+  daysToGrow: 1
+  cropToYield: {fileID: 11400000, guid: 909d93da739a2134db3b39f70eba732b, type: 2}
+  seedling: {fileID: 4334930406652723819, guid: 83fc5a369b63d7f42a94dd042edc489e, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abd617bdc2d17b24fa2fab662881d9f7, type: 3}
+  m_Name: "C\xE0 chua"
+  m_EditorClassIdentifier: 
+  description: "C\xE0 chua l\xE0 lo\u1EA1i qu\u1EA3 thu\u1ED9c h\u1ECD C\xE0, c\xF3
+    h\xECnh tr\xF2n ho\u1EB7c b\u1EA7u d\u1EE5c, v\u1ECF m\u1ECFng, m\xE0u \u0111\u1ECF,
+    cam, v\xE0ng ho\u1EB7c xanh khi ch\xEDn. Th\u1ECBt qu\u1EA3 m\u1ECDng n\u01B0\u1EDBc,
+    c\xF3 h\u1EA1t nh\u1ECF b\xEAn trong. C\xE0 chua c\xF3 v\u1ECB ng\u1ECDt, chua
+    nh\u1EB9, ch\u1EE9a nhi\u1EC1u vitamin C, A, v\xE0 lycopene, t\u1ED1t cho s\u1EE9c
+    kh\u1ECFe tim m\u1EA1ch v\xE0 da."
+  thumbnail: {fileID: -2036672642, guid: 44f314e6fd4cb624a8c04bdddbac3fc8, type: 3}
+  gameModel: {fileID: 2529336596004207636, guid: b86bdeaa02b50074b8066d7439597d85, type: 3}
